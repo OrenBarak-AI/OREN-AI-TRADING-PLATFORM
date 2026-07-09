@@ -1,5 +1,13 @@
 # 🚀 OREN AI Trading Platform
+## Platform Preview
 
+![Dashboard](1.a_wide_screenshot_collage_desktop_screenshot_com.png)
+
+![Professional UI](2.a_high_resolution_promotional_screenshot_ui_mock.png)
+
+![Professional Dashboard](3.a_wide_high_contrast_promotional_dashboard_ui_s.png)
+
+![AI Trading Platform](4.a_high_tech_promotional_dashboard_poster_ui_mock.png)
 Professional AI-powered cryptocurrency trading platform built from scratch using Python and TradingView Pine Script.
 
 ## Overview
